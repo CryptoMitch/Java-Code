@@ -8,3 +8,6 @@ public class ExampleClass {
 		MyUtils.printSomeJunk(0);
 	}
 }
+
+
+// Dummy Test
