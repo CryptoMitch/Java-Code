@@ -28,6 +28,8 @@ public class Earth {
 		
 		joe.speak();
 		
+		//test connection
+		
 	}
 	
 }
